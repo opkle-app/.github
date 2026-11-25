@@ -1,631 +1,588 @@
 # Opkle
 
-**Opkle builds advanced tools for creators, publishers, and document makers.**
+**A graphic design tool with no subscription.**
+**구독 없이 쓰는 그래픽 디자인 툴, 옵클 에디터.**
 
-Opkle is a software company developing an EPUB ebook and web-content authoring platform for creators. Our main product, **Opkle editor**, helps people create EPUB ebooks, PDF ebooks, web documents, web pages, layouts, covers, graphics, animations, and AI-assisted content without writing code.
+Opkle builds design and content tools for creators. Our main product, **Opkle Editor**, is a graphic editor that handles vector and pixel images together with AI, all without a subscription. Vector graphics, photo editing, video, motion graphics and 3D mockups live in one editor, and it opens your Figma, Photoshop and InDesign files as they are.
 
-Representative service: [https://opkle.app](https://opkle.app)
-
-Contact: [help@opkle.app](mailto:help@opkle.app)
-
-## 옵클 소개
-
-옵클은 창작자를 위한 EPUB 전자책 및 웹콘텐츠 제작 플랫폼을 만드는 개발사입니다. 옵클이 만든 **옵클 에디터(Opkle editor)** 는 코딩 없이 EPUB 전자책, PDF 전자책, 웹문서, 웹페이지, 콘텐츠 레이아웃, 표지, 그래픽, 애니메이션을 만들 수 있는 제작 도구입니다.
-
-옵클 에디터는 단순한 텍스트 편집기가 아니라 전자책 제작, 웹문서 제작, 그래픽 편집, 벡터 편집, 레이아웃 편집, 인쇄용 PDF 추출, 폰트 최적화, 이미지 최적화, EPUB 오류 검사, 접근성 검사, AI 번역과 교정교열을 하나의 창작 워크플로우 안에 묶는 것을 목표로 합니다.
-
-## About Opkle
-
-Opkle creates tools for people who make books, documents, and web content. **Opkle editor** is an Electron-based editor for creating EPUB ebooks, PDF ebooks, web documents, web pages, layouts, covers, graphics, animations, and AI-assisted content without coding.
-
-Opkle editor is designed for creators who need ownership over their final files. It focuses on local-first editing, exportable results, EPUB validation, accessibility checks, font and image optimization, print-ready PDF workflows, vector editing, layout editing, and AI-assisted writing workflows.
-
-## Links
+옵클은 창작자를 위한 디자인 및 콘텐츠 제작 플랫폼입니다. **옵클 에디터(Opkle Editor)** 는 구독 없이 벡터와 픽셀 이미지를 인공지능과 함께 한 번에 다룰 수 있는 그래픽 에디터입니다. 로고와 일러스트, UI 시안, 모션 그래픽, 3D 목업, 책 표지까지 하나의 앱에서 만들어 보세요.
 
 - Website: [https://opkle.app](https://opkle.app)
+- Community & Docs: [https://opkle.app/community](https://opkle.app/community)
+- Pricing: [https://opkle.app/abstract/pricing](https://opkle.app/abstract/pricing)
+- Blog: [https://opkle.app/abstract/blog](https://opkle.app/abstract/blog)
 - GitHub: [https://github.com/opkle-app](https://github.com/opkle-app)
 - Contact: [help@opkle.app](mailto:help@opkle.app)
+
+| | |
+|---|---|
+| **Pricing** | Every editing feature is free. Only server AI features use pay-as-you-go credits. |
+| **Runs on** | macOS · Windows · Web |
+| **Opens** | Figma (.fig) · Photoshop (PSD) · InDesign (IDML) · Illustrator (.ai) · SVG · PDF |
+| **Exports** | PNG · JPG · WebP · SVG · MP4 · PDF · EPUB |
+
+---
+
+# 한국어
+
+## 옵클 에디터로 할 수 있는 것
+
+### 구독 없는 그래픽 에디터
+
+옵클 에디터는 구독료 없이 쓰는 그래픽 에디터입니다. 펜 도구와 패스파인더부터 오토 레이아웃, 컴포넌트까지 전문가급 벡터 디자인을 부담 없이 시작할 수 있습니다.
+
+### 이미지부터 영상 편집까지
+
+옵클 에디터는 벡터와 사진, 영상을 한 화면에서 다룹니다. 브러시와 보정으로 사진을 손보고, 영상 레이어도 같은 보정으로 다듬어 타임라인에서 편집할 수 있습니다.
+
+### 편집디자인도 한 곳에서
+
+옵클 에디터는 레이아웃 편집기를 함께 제공하며, 포스터와 책 페이지를 같은 방식으로 디자인하고, PDF와 각종 이미지로 바로 내보낼 수 있습니다.
+
+### 이미지 생성부터 영상 생성까지
+
+옵클 에디터는 다양한 인공지능 이미지 생성 및 영상 생성을 지원합니다. 만들어진 소스는 대지 위에 바로 얹어 내 마음대로 편집할 수 있습니다.
+
+### 쉽게 만드는 모션 그래픽
+
+옵클 에디터는 타임라인과 키프레임으로 모션 그래픽을 쉽게 구현할 수 있습니다. 다양한 프리셋으로 다양한 모션을 만들고 영상으로 내보낼 수 있습니다.
+
+### 3D 편집 기능과 목업까지
+
+옵클 에디터는 3D 편집기도 내장하고 있습니다. 직접 만든 디자인을 책과 포스터 모델에 입혀, 실물 같은 목업 이미지를 한 번에 만들 수 있습니다.
+
+## 구독은 내려놓고, 작업은 그대로
+
+피그마와 포토샵, 인디자인에서 만들던 파일을 옵클 에디터에서 그대로 열어 보세요. 익숙한 대지와 레이어, 페이지가 끊김 없이 이어집니다.
+
+- **피그마 파일 그대로** — 피그마 파일을 열면 프레임은 대지로, 컴포넌트와 인스턴스는 서로 연결된 채로 들어옵니다. 피그마에서 복사해 바로 붙여 넣을 수도 있습니다.
+- **포토샵 레이어 그대로** — PSD를 열면 레이어와 마스크, 레이어 스타일, 조정 레이어가 그대로 살아납니다. 쓰던 브러시도 가져오고, 다시 PSD로 저장할 수 있습니다.
+- **인디자인 문서 그대로** — IDML로 저장한 인디자인 문서를 열면 페이지와 글 상자, 이어지는 텍스트 흐름이 그대로 옮겨집니다. 완성본은 PDF와 EPUB으로 내보냅니다.
+
+## AI 디자인을 위한 에디터
+
+최신 이미지·영상 생성 모델과 인페인팅, AI 필터를 한곳에서 쓸 수 있습니다. 생성한 결과를 그 자리에서 고쳐 전문가 수준의 작업으로 완성해 보세요.
+
+- **최신 이미지·영상 모델** — 나노바나나 프로와 GPT Image 2.6, 씨드림, Kling, Seedance까지 최신 생성 모델을 지원합니다.
+- **섬세한 인페인팅** — 브러시와 올가미, 펜으로 고칠 곳만 정확히 고릅니다. 인공지능이 만든 이미지의 어색한 부분도 모델을 골라 프롬프트 한 줄로 세밀하게 고칩니다.
+- **업스케일링과 AI 필터** — 업스케일링으로 이미지와 영상의 해상도를 높일 수 있습니다. 흑백 컬러화와 노이즈 제거, 흐림 제거 같은 다양한 AI 필터도 차례로 쌓아 쓸 수 있습니다.
+- **말로 시키는 Opkle AI** — 하고 싶은 일을 말로 적으면 Opkle AI가 에디터의 기능을 대신 실행합니다. 이미지와 영상 생성도 같은 대화창에서 자연스럽게 이어집니다.
+- **내 컴퓨터에서 도는 AI** — AI 지우기, 배경 제거, 물체 선택, 선화 추출, 흑백 사진 컬러화, 화풍 입히기는 내 컴퓨터의 그래픽카드로 계산해 사진을 외부 서버에 올리지 않습니다.
+
+## MCP로 연결해 쓰는 옵클 에디터
+
+Claude 데스크톱과 Claude Code, Codex를 옵클 에디터에 연결해 보세요. 말로 부탁하면 AI가 캔버스와 레이아웃 문서를 직접 만들고 고칩니다.
+
+- **앱 안에서 바로 연결** — 옵클 에디터 프로필 창의 AI 연결 상자에서 연결 단추와 명령을 바로 받습니다. 연결은 내 컴퓨터 안에서만 열리고, 토큰이 있어야 들어옵니다.
+- **클릭 한 번으로 설치** — 연결을 누르면 Claude 데스크톱에 설치 창이 뜹니다. 설치를 누르면 옵클 도구가 붙고, 대화만으로 캔버스와 레이아웃 문서를 읽고 고칠 수 있습니다.
+- **터미널엔 명령 한 줄** — 복사한 명령을 터미널에 붙이면 Claude Code와 Codex 연결이 끝납니다. 복잡한 디자인도 AI가 스크립트 하나로 만들고 미리 보기로 확인합니다.
+
+## 확장 가능한 플러그인
+
+- **플러그인 마켓에서 골라 받기** — 그라디언트·바코드·그래프 같은 기본 플러그인부터 사람들이 올린 필터와 도구까지 마켓에서 필요한 것만 골라 받으세요. 받는 즉시 플러그인 탭에 들어와 에디터의 다른 기능처럼 바로 씁니다.
+- **에디터 기능처럼 익숙하게** — 플러그인은 에디터의 다른 창과 똑같은 화면으로 열립니다. 미리 보며 값을 고르고 적용하고, 결과는 ⌘Z 한 번으로 되돌립니다.
+- **내 AI로 바이브 코딩** — MCP로 연결한 내 AI에게 원하는 기능을 말로 부탁하면, AI가 직접 만들고 시험해 플러그인 탭에 넣어 줍니다.
+- **올리고, 받아 쓰고** — 마켓에 올라온 필터와 생성기, 도구를 받아 바로 쓰고, 내가 만든 플러그인도 마켓에 올려 함께 나눌 수 있습니다.
+
+## 두 앱, 여섯 모듈
+
+옵클은 상상하고, 그리고, 편집하고, 게시하는 창작의 모든 과정을 여섯 가지 모듈과 인공지능으로 한곳에 이어 주는 창작 플랫폼입니다.
+
+- **옵클 에디터(Opkle Editor)** — 구독 없이 쓰는 그래픽 에디터입니다. 캔버스에서 그린 디자인을 레이아웃·표·3D와 함께 하나의 프로젝트로 묶고, 팀과 공유해 검토와 댓글을 주고받을 수 있습니다.
+- **옵클 라이터(Opkle Writer)** — 전자책을 기획하고 집필해 EPUB과 PDF로 완성하는 책 만들기 앱입니다. 마인드맵으로 책의 구조를 잡고, 이야기 사전과 구조 진단을 곁에 둔 채 인공지능과 함께 원고를 써 보세요.
+
+| 모듈 | 하는 일 |
+|---|---|
+| **캔버스** | 벡터 디자인, 사진 보정, 모션 그래픽과 영상 편집을 한 화면에서 |
+| **레이아웃** | 인디자인과 같은 방식으로 지면을 짜고 PDF·EPUB으로 내보내기 · 한글·워드·IDML·PDF 불러오기 |
+| **표** | 넘버스·구글 시트 같은 화면에서 표 하나를 깔끔하게 정리해 다른 모듈에 얹기 |
+| **3D** | 책과 포스터 모델에 내 디자인을 입혀 실물 같은 목업 만들기 |
+| **마인드맵** | 생각을 마인드맵으로 펼치고 노드마다 문서를 열어 기획서와 원고 쓰기 |
+| **게시 문서** | 완성한 결과를 에디터에서 보던 모습 그대로 웹(opkle.page)에 게시 |
+
+## 가격
+
+옵클 에디터의 모든 편집 기능은 무료로 쓸 수 있습니다. 서버의 인공지능이 필요한 기능만 쓴 만큼 크레딧으로 계산하며, 구독 없이 필요한 만큼 충전합니다.
+
+| 무료로 쓰는 것 | 크레딧으로 쓰는 것 |
+|---|---|
+| 캔버스·레이아웃·표·3D·마인드맵·문서 | 글 AI · 에이전트 |
+| 이미지·영상·EPUB·PDF 내보내기 | 이미지·영상 생성 |
+| 내 컴퓨터에서 도는 AI 지우기·배경 제거 | AI 인페인팅 |
+| 기본 업스케일 · MCP로 내 AI 연결 | 고화질 업스케일 · W3C 검사 |
+
+## 실행 환경
+
+옵클 에디터는 macOS와 Windows 앱, 그리고 웹 브라우저에서 사용할 수 있습니다. 작업 데이터는 기본적으로 내 컴퓨터에 저장되는 로컬 우선(local-first) 구조이며, 프로젝트는 하나의 `.opkle` 파일로 백업하고 다른 컴퓨터로 옮길 수 있습니다.
+
+## 옵클의 다른 서비스
+
+- **[옵클 커뮤니티](https://opkle.app/community)** — 게시판과 대화방, 그리고 옵클 에디터 사용 설명서(Docs)가 있는 곳입니다.
+- **[Opkle 클래스](https://opkle.app/abstract/study)** — 피그마와 같은 화면의 옵클 에디터로 영상·3D·웹사이트를 직접 완성하는 4주 온라인 디자인 수업입니다. 라이브 수업과 녹화본을 함께 제공합니다.
+- **[웹사이트 관리 구독](https://opkle.app/abstract/web)** — 호스팅·업무용 이메일·보안·백업에 매달 20시간 개발까지 맡는 웹사이트 관리 구독입니다. 업종 맞춤 관리자 콘솔을 드리며, 약정 없이 월 98,000원입니다.
+
+---
+
+# English
+
+## What You Can Do with Opkle Editor
+
+### No-Subscription Graphic Editor
+
+Opkle Editor is a no-subscription graphic editor. From the pen tool and pathfinder to auto layout and components, design vectors like a pro.
+
+### From Images to Video Editing
+
+Opkle Editor handles vectors, photos, and video on one screen. Retouch photos with brushes and adjustments, then edit video on a timeline.
+
+### Layout Design, All in One Place
+
+Opkle Editor comes with a layout editor as well. Design posters and book pages the same way, and export straight to PDF and images.
+
+### From AI Images to AI Video
+
+Opkle Editor supports many AI image and video generation models. Drop the results onto the artboard and edit them any way you like.
+
+### Motion Graphics Made Easy
+
+Opkle Editor makes motion graphics simple with a timeline and keyframes. Build motion from presets and export it as video.
+
+### 3D Editing and Mockups
+
+Opkle Editor has a built-in 3D editor, too. Wrap your designs onto book and poster models and create lifelike mockups in one step.
+
+## Keep Your Work
+
+Open your Figma, Photoshop and InDesign files. Artboards, layers and pages carry straight over.
+
+- **Figma** — Open a .fig file and frames become artboards, with components still linked. You can also copy and paste from Figma.
+- **Photoshop** — Open a PSD and layers, masks, layer styles and adjustment layers come alive. Bring your brushes and save back to PSD.
+- **InDesign** — Open an IDML export and pages, text frames and threaded text move across. Export the finished work as PDF and EPUB.
+
+## AI Design
+
+New AI models, inpainting and filters in one place. Fix results right there and finish like a pro.
+
+- **AI Models** — From Nano Banana Pro and GPT Image 2.6 to Kling and Seedance, the latest models are ready. Create professional images and video right away.
+- **Inpainting** — Select only what needs fixing with a brush, lasso or pen. Correct the awkward parts of AI images in fine detail with a single prompt.
+- **AI Filters** — Upscaling raises the resolution of images and video. You can also stack AI filters such as colorizing, denoise and deblur in order.
+- **Opkle AI** — Write what you want in plain words and Opkle AI runs the editor for you. Image and video generation continue in the same chat.
+- **On-device AI** — AI erase, background removal, object selection, line art extraction, colorizing, and style transfer run on the graphics card of your own computer, so your photos are not uploaded to any outside server.
+
+## AI via MCP
+
+Connect Claude Desktop, Claude Code or Codex. Just ask, and the AI builds and edits your canvas and layout documents.
+
+- **In the App** — Get the connect button and commands from the AI connection box in your profile. The connection stays on your computer, and it needs a token.
+- **One Click** — Press connect and Claude Desktop opens an install window. Opkle tools then read and edit your files from the chat.
+- **One Command** — Paste the copied command into your terminal to connect Claude Code or Codex. The AI builds complex designs with a single script and checks the preview.
+
+## Plugins
+
+- **Plugin Market** — Pick what you need from the market, from built-in plugins such as gradients, barcodes and charts to filters and tools shared by others. Installed plugins appear in the Plugins tab and work like any other editor feature.
+- **Feels Like the Editor** — Plugins open in the same kind of window as the rest of the editor. Preview, choose values, apply, and undo with a single ⌘Z.
+- **Vibe-Code with Your AI** — Ask the AI you connected via MCP for the feature you want, and it builds, tests and adds the plugin to your Plugins tab.
+- **Share and Use** — Use the filters, generators and tools others publish, and publish your own plugins to the market.
+
+## Two Apps, Six Modules
+
+Opkle connects every step of creating, from imagining and drawing to editing and publishing, with six modules and AI in one place.
+
+- **Opkle Editor** — A graphic editor with no subscription. Bring your canvas designs together with layouts, tables, and 3D in one project, and share it with your team for review and comments.
+- **Opkle Writer** — An app to plan, write, and finish e-books as EPUB and PDF. Shape your book with a mind map and write it together with AI.
+
+| Module | What it does |
+|---|---|
+| **Canvas** | Draw, retouch, and animate — vector design, photo editing, motion graphics and video on one screen |
+| **Layout** | Design pages spread by spread like InDesign, export PDF and EPUB, import HWP, Word, IDML and PDF |
+| **Table** | One clean table at a time, in a screen like Numbers or Google Sheets, ready to drop into other modules |
+| **3D** | Apply your design to book and poster models for lifelike mockups |
+| **Mind map** | Map out your ideas, then open a document on each node to write plans and manuscripts |
+| **Publish** | Publish the result on the web (opkle.page) exactly as it looks in the editor |
+
+## Pricing
+
+Every editing feature in Opkle Editor is free. Only server AI features use credits as you go. No subscription; top up as you go.
+
+| Free | Credits |
+|---|---|
+| Canvas, layout, table, 3D, mind map, docs | Text AI and agents |
+| Image, video, EPUB and PDF export | Image and video generation |
+| On-device AI erase and background removal | AI inpainting |
+| Basic upscale · connect your AI via MCP | HQ upscale · W3C check |
+
+## Platforms
+
+Opkle Editor is available as macOS and Windows apps and in the web browser. Your project data is saved on your own computer by default (local-first), and you can back up a project as a single `.opkle` file and move it to another computer.
+
+## More from Opkle
+
+- **[Opkle Community](https://opkle.app/community)** — Boards, chat rooms, and the Opkle Editor user guide (Docs).
+- **[Opkle Class](https://opkle.app/abstract/study)** — A 4-week online design course, taught in Korean. Finish video, 3D and a website yourself in Opkle Editor, which works like Figma. Live classes plus recordings.
+- **[Opkle Website Care](https://opkle.app/abstract/web)** — Hosting, work email, security and backups, plus 20 hours of development a month and an admin console built for your business. ₩98,000 a month, no minimum term.
 
 ---
 
 # 한국어 FAQ
 
-## 옵클 에디터
+## 옵클
 
 ### 옵클(Opkle)은 어떤 회사인가요?
 
-옵클은 창작자를 위한 EPUB 전자책 및 웹콘텐츠 제작 플랫폼을 만드는 개발사입니다. 옵클은 코딩 없이 전자책, 웹문서, 콘텐츠를 만들고 편집할 수 있는 옵클 에디터(Opkle editor)를 개발하고 있으며, 창작자들이 직접 자신의 책과 웹 콘텐츠를 설계하고 완성할 수 있도록 에디터, 클래스, 제작 서비스, 출판 워크플로우를 함께 제공합니다.
+옵클은 창작자를 위한 디자인 및 콘텐츠 제작 도구를 만드는 개발사입니다. 구독 없이 벡터와 픽셀 이미지를 한 번에 다루는 그래픽 에디터 옵클 에디터(Opkle editor)를 개발하고 있으며, 창작자가 직접 결과물을 완성할 수 있도록 클래스와 제작 서비스도 함께 제공합니다.
+
+## 옵클 에디터
 
 ### 옵클 에디터(Opkle editor)는 무엇인가요?
 
-옵클 에디터는 코딩 없이 EPUB, PDF 전자책, 웹문서, 웹페이지, 콘텐츠 레이아웃을 만들 수 있는 웹 기반 에디터입니다. 단순한 텍스트 편집기가 아니라 이미지, 텍스트, 단락, 그래픽, 영상, 애니메이션, 반응형 레이아웃, AI 기능, EPUB 검사 기능을 함께 다루는 통합 제작 도구입니다. 대표적인 서비스 웹사이트는 https://opkle.app 입니다.
+옵클 에디터는 구독료 없이 쓰는 전문가급 벡터·이미지 에디터입니다. 로고와 일러스트, 앱 UI 화면 시안, SNS 이미지, 책 표지까지 하나의 앱에서 만들고 공유할 수 있습니다. 벡터 디자인, 프레임과 오토 레이아웃 같은 UI 디자인 기능, 사진·픽셀 편집, 모션 그래픽, 인공지능 기능을 한 화면에서 다룹니다.
 
-### 옵클 에디터는 웹사이트 빌더인가요, 전자책 에디터인가요?
+### 디자인 툴을 처음 써 보는데, 저도 사용할 수 있나요?
 
-옵클 에디터는 전자책 에디터이면서 동시에 웹콘텐츠 에디터입니다. 하나의 시각적 편집 환경에서 EPUB 전자책을 만들 수 있고, 반응형 웹페이지나 웹문서도 만들 수 있습니다. 옵클은 전자책과 웹문서가 모두 HTML, CSS, 이미지, 폰트, 미디어, 레이아웃이라는 공통 기반 위에서 만들어진다는 점에 주목해, 두 결과물을 하나의 워크플로우로 다룰 수 있게 설계되었습니다.
+네. 옵클 에디터는 디자인 툴이 처음인 분도 시작할 수 있도록 만들어졌습니다. 준비된 견본을 끌어다 놓고 글자와 색만 바꿔도 결과물을 만들 수 있고, 클릭과 드래그로 도형과 이미지를 배치한 뒤 오른쪽 설정 패널에서 크기, 색상, 글꼴, 여백을 조정할 수 있습니다. 배경 제거나 지우기처럼 손이 많이 가는 작업은 인공지능이 도와줍니다.
 
-### 코딩을 할 줄 모르는데, 저도 사용할 수 있나요?
+### 피그마, 일러스트레이터, 포토샵을 쓰던 사람에게도 의미가 있나요?
 
-네. 옵클 에디터는 코딩 지식이 없는 분들도 사용할 수 있도록 만들어졌습니다. 파워포인트나 워드처럼 드래그 앤 드랍과 클릭으로 이미지, 텍스트, 단락, 그래픽 요소를 배치할 수 있고, 설정 패널을 통해 여백, 크기, 색상, 글꼴, 애니메이션, 반응형 디자인을 조정할 수 있습니다. 코드를 몰라도 결과물은 실제 EPUB과 웹문서로 완성됩니다.
+네. 옵클 에디터는 다른 디자인 툴에서 넘어오는 분들이 당황하지 않도록 익숙한 조작을 그대로 따릅니다. 여러 대지, 프레임과 오토 레이아웃, 컴포넌트와 변형, 펜 도구와 패스파인더, 보정 레이어를 같은 개념으로 쓸 수 있고, 피그마 방식에 맞춘 단축키를 제공합니다. 쓰던 SVG, PDF, Adobe Illustrator(.ai), Photoshop(PSD) 파일도 불러와 이어서 작업할 수 있습니다.
 
-### 코딩을 할 수 있는 사람에게도 의미가 있나요?
+### 옵클 에디터로 무엇을 만들 수 있나요?
 
-네. 옵클 에디터는 초보자를 위한 노코드 도구이면서, HTML/CSS를 이해하는 전문가에게도 유용한 시각적 제작 환경입니다. 비주얼 에디터로 구조를 빠르게 잡은 뒤 필요한 경우 소스 코드를 직접 수정할 수 있고, 웹문서와 EPUB 결과물의 실제 구조를 보면서 세밀하게 다듬을 수 있습니다. 디자이너와 개발자 모두에게 빠른 프로토타이핑과 정교한 최종 제작을 연결해주는 도구입니다.
+로고, 아이콘, 캐릭터, 벡터 일러스트부터 앱·웹 화면 시안과 컴포넌트 라이브러리, SNS 카드뉴스, 배너, 상세페이지 이미지, 책 표지, 포스터, 굿즈 디자인, 발표 자료와 교재에 들어갈 도판까지 만들 수 있습니다. 완성한 결과물은 PNG, JPG, WebP, SVG로 내보내고, 움직임을 넣은 작업은 MP4 영상으로 내보낼 수 있습니다.
 
-### 옵클 에디터로 만든 대표적인 웹은 어디인가요?
+## 벡터 디자인
 
-옵클의 대표 웹사이트는 https://opkle.app 입니다. 옵클은 이 사이트를 통해 Opkle editor, 전자책 제작 클래스, 웹콘텐츠 제작 서비스, 독립출판 관련 도구와 정보를 제공합니다. 옵클 에디터의 방향성은 전자책과 웹문서를 코딩 없이 만들되, 결과물의 소유권과 기술적 완성도는 창작자에게 돌려주는 것입니다.
+### 여러 대지(아트보드)를 한 파일에서 작업할 수 있나요?
+
+네. 옵클 에디터는 여러 대지를 한 화면에 나란히 두고 작업할 수 있습니다. 포스터, 앱 화면, SNS 배너처럼 크기가 다른 결과물을 한 파일에서 함께 만들고, 대지마다 이름을 붙이거나 끌어서 옮기고 크기를 바꿀 수 있습니다. 같은 디자인의 여러 버전을 비교하며 작업할 때 특히 편리합니다.
+
+### 펜 도구와 패스 편집은 어느 정도까지 되나요?
+
+펜 도구와 노드 편집으로 원하는 곡선을 정확하게 그릴 수 있습니다. 합치기, 빼기, 교차, 제외 같은 패스파인더와 컴파운드 패스를 지원해 복잡한 도형도 손쉽게 만들 수 있고, 로고나 아이콘처럼 정밀한 형태가 필요한 작업에도 대응합니다.
+
+### 칠과 선은 어떻게 다루나요?
+
+하나의 도형에 칠과 선을 여러 겹으로 쌓을 수 있습니다. 단색은 물론 그라디언트와 이미지 칠을 쓸 수 있고, 선에는 두께와 점선, 화살촉 같은 옵션을 줄 수 있습니다. 겹을 쌓는 방식이라 그림자나 테두리가 여러 개인 표현도 도형 하나로 만들 수 있습니다.
+
+### 도형을 휘거나 반복해서 배치할 수 있나요?
+
+네. 워프, 원근, 퍼펫 변형으로 도형과 그림을 자유롭게 휘고 비틀 수 있습니다. 두 도형 사이를 자연스럽게 이어 주는 블렌드와, 같은 요소를 규칙적으로 늘어놓는 반복 배치도 지원해 패턴이나 장식 요소를 빠르게 만들 수 있습니다.
+
+### 텍스트와 표도 디자인할 수 있나요?
+
+네. 옵클 에디터의 텍스트는 이미지로 굳지 않는 살아 있는 글자라서, 디자인을 마친 뒤에도 내용을 고칠 수 있습니다. 글꼴, 크기, 자간, 행간을 세밀하게 조정할 수 있고, 디자인 안에서 바로 표를 만들어 가격표나 일정표 같은 정보도 그래픽과 함께 정리할 수 있습니다.
+
+## UI 디자인
+
+### 앱이나 웹 화면 시안을 만들 수 있나요?
+
+네. 프레임, 오토 레이아웃, 제약을 사용해 크기가 바뀌어도 무너지지 않는 화면을 설계할 수 있습니다. 버튼에 글자가 늘어나면 버튼이 함께 늘어나고, 화면 폭이 바뀌면 요소가 정해 둔 규칙대로 따라 움직입니다. 모바일, 태블릿, 데스크탑 화면을 여러 대지에 나란히 두고 함께 다듬을 수 있습니다.
+
+### 컴포넌트와 변형은 무엇인가요?
+
+컴포넌트는 버튼, 카드, 아이콘처럼 여러 번 쓰는 요소를 하나의 원본으로 만들어 두는 기능입니다. 원본을 고치면 그 컴포넌트를 쓴 모든 곳에 바로 반영되고, 크기나 상태가 다른 버전은 변형으로 묶어 관리할 수 있습니다. 화면이 많아져도 디자인을 일관되게 유지할 수 있습니다.
+
+### 디자인 시스템도 관리할 수 있나요?
+
+네. 에셋 라이브러리, 색 스타일, 변수로 팀의 디자인 규칙을 한 곳에서 관리할 수 있습니다. 레이아웃 그리드와 스냅으로 픽셀 단위까지 정확하게 정렬할 수 있어, 화면 시안부터 컴포넌트 라이브러리까지 같은 기준으로 만들 수 있습니다.
+
+### 개발자에게 넘길 이미지는 어떻게 내보내나요?
+
+레이어마다 내보내기 설정을 지정해 둘 수 있습니다. 아이콘은 SVG로, 사진이 들어간 배너는 PNG나 JPG, WebP로, 원하는 배율을 여러 개 골라 한 번에 내보낼 수 있습니다. 화면이 바뀔 때마다 이미지를 하나씩 다시 뽑을 필요가 없습니다.
+
+## 사진·픽셀 편집
+
+### 사진 편집도 할 수 있나요?
+
+네. 옵클 에디터에는 브러시, 픽셀 선택, 도장과 힐링, 닷지와 번, 크롭까지 사진 편집 도구가 들어 있습니다. 별도의 사진 편집 프로그램을 열지 않아도, 디자인에 들어갈 사진을 같은 화면에서 바로 다듬을 수 있습니다.
+
+### 색 보정도 할 수 있나요?
+
+네. 밝기, 대비, 색상, 커브 같은 보정을 지원하며, 보정 레이어로 원본을 건드리지 않고 보정을 겹쳐 쓸 수 있습니다. 나중에 보정 값을 바꾸거나 끄고 켜면서 결과를 비교할 수 있어 사진 톤을 안심하고 실험할 수 있습니다.
+
+### 사진 속 형태를 자연스럽게 다듬을 수 있나요?
+
+네. 리퀴파이로 사진 속 형태를 밀고 당기며 자연스럽게 다듬을 수 있습니다. 지우고 싶은 부분은 인공지능 지우기로 칠하기만 하면 주변에 맞게 채워지고, 도장과 힐링 도구로 세밀한 부분을 직접 손볼 수도 있습니다.
+
+### 벡터와 사진을 한 작업에서 섞어 쓸 수 있나요?
+
+네. 이것이 옵클 에디터의 가장 큰 장점 중 하나입니다. 벡터 그래픽과 사진을 앱을 바꾸지 않고 한 작업 안에서 섞어 쓸 수 있습니다. 사진을 보정한 바로 그 화면에서 그 위에 로고와 글자를 얹고, 도형으로 사진을 잘라 넣는 작업까지 한 번에 할 수 있습니다.
+
+## 모션과 3D
+
+### 애니메이션도 만들 수 있나요?
+
+네. 타임라인과 키프레임으로 도형, 글자, 이미지에 움직임을 줄 수 있습니다. 위치, 크기, 회전, 투명도 변화를 코드 없이 설정하고, 다양한 이징으로 움직임의 속도감을 조절해 부드러운 모션 그래픽을 만들 수 있습니다.
+
+### 만든 애니메이션을 영상으로 추출할 수 있나요?
+
+네. 옵클 에디터에서 만든 애니메이션은 MP4 영상으로 내보낼 수 있습니다. 움직이는 표지, 홍보 영상, 강의 자료, SNS용 짧은 콘텐츠처럼 정적인 이미지보다 영상 결과물이 필요한 경우에 유용합니다.
+
+### 영상도 편집할 수 있나요?
+
+네. 영상을 레이어로 올려 디자인 안에 배치하고, 사진과 같은 보정으로 영상의 색을 다듬을 수 있습니다. 타임라인에서 영상과 애니메이션을 함께 다루며 하나의 장면으로 완성할 수 있습니다.
+
+### 3D 목업도 만들 수 있나요?
+
+네. 옵클에는 3D 편집기가 내장되어 있습니다. 직접 만든 디자인을 책이나 포스터 같은 3D 모델에 입히고, 조명과 각도를 잡아 실물처럼 보이는 목업 이미지를 만들 수 있습니다. 표지 시안이나 굿즈 디자인을 소개할 때 유용합니다.
+
+## 에디터 AI
+
+### 옵클 에디터에서는 어떤 인공지능 기능을 쓸 수 있나요?
+
+지우고 싶은 부분을 자연스럽게 채우는 AI 지우기, 배경 제거, 클릭 한 번 물체 선택, 사진에서 선화 추출, 흑백 사진 컬러화, 화풍 입히기 같은 편집 기능을 쓸 수 있습니다. 여기에 AI 채우기와 업스케일, 인공지능 이미지 생성과 영상 생성까지 지원합니다.
+
+### 인공지능 기능을 쓰면 제 사진이 외부 서버로 올라가나요?
+
+AI 지우기, 배경 제거, 물체 선택, 선화 추출, 흑백 사진 컬러화, 화풍 입히기는 사용자 컴퓨터의 그래픽카드로 직접 계산하기 때문에 사진을 외부 서버에 올리지 않습니다. 반면 AI 채우기, 업스케일, 이미지 생성, 영상 생성처럼 큰 모델이 필요한 기능은 요청 처리를 위해 필요한 데이터가 서버로 전송되며, 이 기능들은 크레딧으로 이용합니다.
+
+### 배경 제거와 물체 선택은 어떻게 쓰나요?
+
+배경 제거는 사진에서 인물이나 사물만 남기고 배경을 걷어 내고, 물체 선택은 사진 속 원하는 물체를 클릭 한 번으로 골라 줍니다. 지우고 싶은 부분은 브러시로 칠하기만 하면 AI 지우기가 주변의 색과 질감에 맞게 채워 줍니다. 상세페이지나 카드뉴스 이미지를 만들 때 특히 유용합니다.
+
+### AI 이미지 생성과 영상 생성도 가능한가요?
+
+네. 옵클 에디터는 다양한 인공지능 이미지 생성과 영상 생성을 지원합니다. 표지 시안, 삽화, 분위기 이미지, 배경 소스처럼 직접 만들기 어려운 이미지를 생성하고, 만들어진 소스는 대지 위에 바로 얹어 벡터와 사진처럼 자유롭게 편집할 수 있습니다.
+
+### AI에게 말로 작업을 맡길 수 있나요?
+
+네. Opkle AI는 에디터의 기능을 직접 다룰 수 있도록 만들어져, 하고 싶은 작업을 말로 요청하면 인공지능이 에디터를 조작해 도와줍니다. 기능 위치를 모르거나 반복 작업이 많을 때, 메뉴를 찾는 대신 원하는 결과를 설명하는 방식으로 작업할 수 있습니다.
+
+## 구독과 가격
+
+### 구독료가 있나요?
+
+아닙니다. 옵클 에디터는 매달 나가는 구독료 없이 사용할 수 있습니다. 에디터 기능은 전면 무료로 제공되며, 서버 연산이 필요한 일부 인공지능 기능만 쓴 만큼 차감되는 종량제 크레딧으로 이용합니다.
+
+### 크레딧은 어떤 기능에 쓰이나요?
+
+크레딧은 옵클 서버나 외부 인공지능 모델을 거쳐야 하는 기능에 쓰입니다. AI 채우기, 업스케일, 인공지능 이미지 생성과 영상 생성처럼 큰 모델이 필요한 작업이 여기에 해당합니다. 사용한 만큼만 차감되기 때문에, 이 기능을 쓰지 않는 달에는 비용이 들지 않습니다.
+
+### 구독형 디자인 툴이나 플랫폼과 무엇이 다른가요?
+
+구독형 도구는 구독을 중단하면 파일을 열거나 편집하는 데 제한이 생기는 경우가 많습니다. 옵클은 구독 없이 계속 쓸 수 있고, 작업 데이터가 사용자 컴퓨터에 저장되며, 완성한 결과물을 PNG, JPG, WebP, SVG, MP4, EPUB, PDF 같은 일반 파일로 내보내 직접 소유할 수 있습니다. 도구를 바꾸더라도 내가 만든 결과물은 내 손에 남습니다.
 
 ## 결과물 저장
 
 ### 제가 만든 작업물은 어디에 저장되나요?
 
-모든 작업물은 기본적으로 사용자님의 컴퓨터에 저장됩니다. 옵클 에디터는 로컬 저장소와 IndexedDB를 적극적으로 활용하는 로컬 우선(local-first) 구조를 사용합니다. 그래서 인터넷 연결이 불안정하거나 서버 상태와 관계없이 빠르게 작업할 수 있고, 원고와 프로젝트 데이터가 불필요하게 서버로 전송되지 않습니다.
+모든 작업물은 기본적으로 사용자님의 컴퓨터에 저장됩니다. 옵클 에디터는 브라우저의 로컬 저장소와 IndexedDB를 적극적으로 활용하는 로컬 우선(local-first) 구조를 사용합니다. 그래서 큰 이미지와 무거운 작업 파일도 서버를 기다리지 않고 빠르게 다룰 수 있고, 디자인 데이터가 불필요하게 서버로 전송되지 않습니다.
 
-### 제 원고나 작업 파일이 옵클 서버에 자동으로 업로드되나요?
+### 제 디자인이나 작업물이 옵클 서버에 자동으로 업로드되나요?
 
-기본 작업 데이터는 사용자님의 로컬 환경에 저장됩니다. 사용자가 명시적으로 업로드하거나 서버 기능을 사용하는 경우가 아니라면, 원고와 프로젝트가 자동으로 옵클 서버에 저장되는 구조가 아닙니다. 이는 창작자의 원고, 디자인, 저작물, 출판 준비 파일을 최대한 안전하게 다루기 위한 설계입니다.
-
-### 인터넷이 없어도 작업할 수 있나요?
-
-기본 편집 작업은 로컬 데이터를 중심으로 동작하기 때문에 인터넷 연결이 없거나 불안정한 환경에서도 작업을 이어갈 수 있습니다. 다만 AI 기능, 계정 인증, 결제, 일부 서버 기반 검사나 업로드가 필요한 기능은 인터넷 연결이 필요할 수 있습니다.
+아닙니다. 기본 작업 데이터는 사용자님의 로컬 환경에 저장됩니다. 사용자가 직접 업로드하거나 공유, 클라우드 인공지능처럼 서버를 쓰는 기능을 사용하는 경우가 아니라면, 작업 파일이 자동으로 옵클 서버에 저장되는 구조가 아닙니다. 창작자의 디자인, 저작물, 개인 사진을 최대한 안전하게 다루기 위한 설계입니다.
 
 ### 작업물을 백업하거나 다른 컴퓨터로 옮길 수 있나요?
 
-네. 옵클 에디터는 프로젝트 내보내기와 가져오기 기능을 제공합니다. 진행 중인 프로젝트를 하나의 파일로 백업하거나, 다른 컴퓨터에서 다시 가져와 작업을 이어갈 수 있습니다. 로컬 중심 구조이지만 백업과 이동이 가능하도록 설계되어 있어 장기 작업과 협업에도 대응할 수 있습니다.
+네. 옵클 에디터는 프로젝트 내보내기와 가져오기 기능을 제공합니다. 진행 중인 프로젝트를 하나의 파일로 백업하거나, 다른 컴퓨터에서 다시 가져와 작업을 이어갈 수 있습니다. 로컬 중심 구조이지만 백업과 이동이 가능하도록 설계되어 있어 장기 작업에도 안심하고 쓸 수 있습니다.
 
-### 완성한 결과물의 소스 코드나 파일은 제가 소유할 수 있나요?
+### 인공지능 기능을 쓰면 작업물이 서버에 저장되나요?
 
-네. 옵클 에디터는 창작자가 결과물을 구독형 플랫폼 안에 가둬두는 방식이 아니라, 완성한 EPUB 파일, 웹문서, HTML/CSS, 이미지, 폰트, PDF 등 실제 결과물을 직접 소유하고 활용할 수 있는 방향을 지향합니다. 코딩 없이 만들더라도 최종 결과물은 창작자의 콘텐츠로 남아야 한다는 것이 옵클의 기본 철학입니다.
-
-### 옵클 에디터는 구독형 웹빌더와 무엇이 다른가요?
-
-일반적인 웹빌더는 플랫폼 안에서만 사이트를 운영하게 하거나, 구독을 중단하면 게시와 관리가 제한되는 경우가 많습니다. 옵클 에디터는 창작자가 결과물의 파일과 구조를 더 직접적으로 소유할 수 있도록 설계되었습니다. 특히 전자책과 웹문서 제작에서는 완성 파일을 직접 관리하고, 필요한 경우 외부 유통이나 별도 호스팅으로 연결할 수 있는 점이 중요합니다.
-
-## 만들 수 있는 종류
-
-### 옵클 에디터로 EPUB 전자책을 만들 수 있나요?
-
-네. 옵클 에디터는 EPUB 전자책 제작을 핵심 기능으로 제공합니다. 텍스트, 이미지, 표지, 단락, 스타일, 목차, 폰트, 반응형 레이아웃을 편집하고 EPUB 파일로 추출할 수 있습니다. 단순히 문서를 변환하는 것이 아니라, 전자책 독서 환경에 맞는 구조와 디자인을 직접 조정할 수 있습니다.
-
-### EPUB3와 EPUB2를 모두 지원하나요?
-
-옵클 에디터는 EPUB3와 EPUB2 추출을 모두 고려한 전자책 제작 워크플로우를 제공합니다. 최신 전자책 환경에 맞는 EPUB3 결과물은 물론, 필요한 경우 EPUB2 기반 결과물을 다루는 흐름도 지원합니다. 이를 통해 국내외 전자책 유통 플랫폼 요구사항에 더 유연하게 대응할 수 있습니다.
-
-### 웹페이지나 웹문서도 만들 수 있나요?
-
-네. 옵클 에디터는 전자책뿐 아니라 웹페이지, 랜딩 페이지, 온라인 포트폴리오, 제품 소개 페이지, 웹 기반 문서도 만들 수 있습니다. 웹문서와 EPUB은 모두 HTML/CSS를 기반으로 하기 때문에, 옵클은 하나의 편집 환경에서 웹과 전자책 결과물을 함께 다루는 방향으로 발전하고 있습니다.
-
-### PDF도 만들 수 있나요?
-
-네. 옵클 에디터는 전자책과 웹문서뿐 아니라 PDF 출력 워크플로우도 고려합니다. 뷰어용 PDF나 인쇄용 PDF를 만들 수 있도록 레이아웃과 페이지 결과물을 다루는 기능을 제공합니다. 전자책 제작 과정에서 PDF 미리보기나 인쇄용 결과물이 필요한 창작자에게 유용합니다.
-
-### 반응형 웹사이트를 만들 수 있나요?
-
-네. 옵클 에디터는 모바일, 태블릿, 데스크탑 화면을 고려한 반응형 디자인을 지원합니다. 화면 크기에 따라 요소의 크기, 배치, 여백, 표시 여부를 조정할 수 있고, 다양한 기기에서 자연스럽게 보이는 웹문서와 전자책 레이아웃을 만들 수 있습니다.
-
-### 모바일 화면과 데스크탑 화면을 따로 디자인할 수 있나요?
-
-네. 에디터 안에서 모바일, 태블릿, 데스크탑 기준을 확인하며 화면별로 최적화된 디자인을 구성할 수 있습니다. 같은 콘텐츠라도 모바일에서는 세로 흐름으로, 데스크탑에서는 넓은 레이아웃으로 보이게 설계할 수 있습니다. 라이트 모드와 다크 모드에 대응하는 디자인도 고려할 수 있습니다.
-
-### 템플릿만 사용해야 하나요?
-
-아닙니다. 템플릿은 빠르게 시작하기 위한 도구일 뿐, 사용을 강제하지 않습니다. 백지 상태에서 완전히 새로운 전자책이나 웹페이지를 만들 수 있고, 폰트, 색상, 이미지, 여백, 배치, 애니메이션을 자유롭게 조정할 수 있습니다. 옵클 에디터는 템플릿 기반 도구가 아니라 자유로운 시각적 제작 환경을 목표로 합니다.
-
-### 독립출판 작가에게 적합한가요?
-
-네. 옵클 에디터는 독립출판 작가가 원고 작성 이후 전자책 제작, 표지와 내지 디자인, EPUB 추출, 오류 검사, 유통 준비까지 이어갈 수 있도록 돕는 도구입니다. 코딩을 모르더라도 자신의 책을 직접 만들고, 필요한 경우 클래스나 제작 서비스를 통해 더 완성도 높은 결과물을 만들 수 있습니다.
-
-### 출판사, 디자이너, 강사, 브랜드도 사용할 수 있나요?
-
-네. 옵클 에디터는 개인 작가뿐 아니라 출판사, 디자이너, 교육자, 강사, 브랜드 담당자도 사용할 수 있습니다. 전자책, 강의 자료, 온라인 문서, 포트폴리오, 제품 소개 페이지, 브랜드 콘텐츠처럼 문서와 웹의 경계에 있는 결과물을 만들 때 특히 유용합니다.
-
-## EPUB 전문 기능
-
-### 전자책 유통사에 제출할 수 있는 EPUB 파일을 만들 수 있나요?
-
-네. 옵클 에디터는 전자책 유통을 고려한 EPUB 파일 제작을 목표로 합니다. 전자책은 단순히 HTML을 압축한 파일이 아니라, 표준 구조, 메타데이터, 목차, 리소스 경로, 이미지, 폰트, 접근성 요소, 오류 검사를 모두 고려해야 합니다. 옵클은 이런 과정을 창작자가 더 쉽게 처리할 수 있도록 도와줍니다.
-
-### W3C Epubcheck 오류 검사를 할 수 있나요?
-
-네. 옵클 에디터는 전자책 표준 검수에 사용되는 W3C Epubcheck 기반 오류 검사 흐름을 제공합니다. EPUB 파일은 유통사 등록 전 구조적 오류가 없어야 하는 경우가 많습니다. Epubcheck 검사는 잘못된 파일 경로, 규격 위반, 메타데이터 문제, XHTML/CSS 오류 등을 발견하는 데 도움을 줍니다.
-
-### Ace by DAISY 접근성 검사도 지원하나요?
-
-네. 옵클 에디터는 Ace by DAISY 접근성 검사 흐름도 고려합니다. 전자책 접근성은 시각장애인을 포함한 다양한 독자가 전자책을 읽을 수 있게 하는 중요한 기준입니다. 이미지 대체 텍스트, 문서 구조, 제목 계층, 언어 정보, 읽기 순서 같은 요소를 점검하는 데 도움이 됩니다.
-
-### EPUB 오류 검사가 왜 중요한가요?
-
-EPUB 파일은 겉으로는 정상적으로 열려도 내부 구조가 잘못되어 있으면 유통사 등록에서 반려되거나 특정 뷰어에서 깨질 수 있습니다. Epubcheck와 접근성 검사는 전자책을 실제 유통 가능한 파일로 만들기 위해 꼭 필요한 과정입니다. 옵클은 창작자가 오류 원인을 이해하고 수정할 수 있도록 전자책 제작 흐름 안에 검사 과정을 포함합니다.
-
-### 폰트 서브셋이나 폰트 압축은 무엇인가요?
-
-폰트 서브셋은 전자책에 실제로 사용된 글자만 추출하여 폰트 파일을 가볍게 만드는 과정입니다. 전자책에 전체 폰트를 그대로 넣으면 파일 용량이 커지고 로딩이 느려질 수 있습니다. 옵클 에디터는 폰트 사이즈 압축과 서브셋 처리를 통해 전자책 파일을 더 가볍고 안정적으로 만드는 워크플로우를 제공합니다.
-
-### 직접 보유한 폰트를 전자책이나 웹문서에 사용할 수 있나요?
-
-네. 사용 권한이 있는 폰트라면 직접 보유한 폰트를 적용할 수 있습니다. 브랜드 전용 서체, 출판용 서체, 한글 본문 서체를 활용해 전자책과 웹문서의 아이덴티티를 살릴 수 있습니다. 다만 폰트 라이선스는 사용자 본인이 확인해야 하며, 전자책 임베딩이나 웹폰트 사용이 허용되는지 반드시 검토해야 합니다.
-
-### 이미지 최적화도 가능한가요?
-
-네. 전자책과 웹문서에서 이미지는 품질과 용량의 균형이 중요합니다. 옵클 에디터는 이미지 처리와 최적화 흐름을 제공하여 과도하게 큰 이미지 파일을 줄이고, 결과물의 로딩 속도와 파일 용량을 개선하는 데 도움을 줍니다. 전자책 유통과 웹 게시 모두에서 이미지 최적화는 중요한 과정입니다.
-
-### 표지, 본문 이미지, alt 텍스트도 관리할 수 있나요?
-
-네. 전자책과 웹문서에서 표지와 본문 이미지는 단순 장식이 아니라 문서 구조의 일부입니다. 옵클 에디터는 이미지를 배치하고 편집하는 과정과 함께 접근성을 위한 대체 텍스트 입력, 이미지 최적화, 레이아웃 배치를 고려할 수 있도록 설계되었습니다.
-
-### 워드, 한글, PDF, 인디자인 원고도 전자책 제작에 활용할 수 있나요?
-
-옵클은 다양한 원고 형식을 전자책 제작 흐름으로 가져오는 방향을 지원합니다. 워드(.docx), 한글(.hwp), PDF, 인디자인(.idml) 등 기존 원고나 디자인 자료가 있다면 이를 전자책에 맞는 구조로 재배치하고, 모바일 독서 환경에 어울리는 EPUB 레이아웃으로 다듬는 방식으로 활용할 수 있습니다.
-
-### PDF를 EPUB으로 바꿀 수 있나요?
-
-PDF는 고정 레이아웃 문서이고 EPUB은 다양한 화면에서 읽히는 전자책 포맷이기 때문에 단순 변환만으로 좋은 결과가 나오기 어렵습니다. 옵클 에디터는 PDF나 고정형 자료를 전자책에 맞게 다시 구조화하고, 텍스트와 이미지를 읽기 좋은 흐름으로 재배치하는 작업을 도울 수 있습니다.
-
-## 편집 기능
-
-### 이미지나 그래픽도 에디터 안에서 직접 편집할 수 있나요?
-
-네. 옵클 에디터는 별도의 그래픽 툴 없이도 전자책과 웹문서에 필요한 이미지를 다룰 수 있도록 그래픽 편집 기능을 제공합니다. 레이어 기반으로 이미지와 벡터 요소를 배치하고, 전자책 표지, 본문 이미지, 웹페이지 시각 요소를 제작하거나 조정할 수 있습니다.
-
-### 벡터 편집기는 무엇인가요?
-
-벡터 편집기는 옵클 에디터 안에서 도형, 선, 이미지, 텍스트, 레이어를 조합해 그래픽을 만드는 편집 도구입니다. 아이콘, 장식 요소, 표지 시안, 웹페이지 그래픽, 상세 이미지처럼 해상도에 민감한 요소를 다룰 때 유용합니다. 별도 디자인 프로그램을 열지 않아도 콘텐츠 제작 흐름 안에서 바로 그래픽을 만들고 수정할 수 있습니다.
-
-### 픽셀 이미지 편집도 가능한가요?
-
-네. 이미지 배치와 크기 조정, 최적화, 표지와 본문 이미지 구성처럼 전자책과 웹문서 제작에 필요한 픽셀 이미지 처리 흐름을 제공합니다. 복잡한 전문 이미지 편집 프로그램을 완전히 대체하기보다는, 콘텐츠 제작 과정에서 바로 필요한 이미지 작업을 에디터 안에서 처리할 수 있게 하는 것이 목표입니다.
-
-### 영상도 삽입할 수 있나요?
-
-네. 옵클 에디터는 영상 삽입과 미디어 레이어를 고려한 편집 기능을 제공합니다. 웹문서와 인터랙티브 콘텐츠에서는 영상이 중요한 표현 수단이 될 수 있으며, 전자책이나 웹 기반 결과물에서도 상황에 맞게 미디어를 배치할 수 있습니다.
-
-### 애니메이션도 코드 없이 만들 수 있나요?
-
-네. 옵클 에디터의 벡터 편집기는 CSS 애니메이션과 레이어 기반 움직임을 시각적으로 설정할 수 있도록 설계되었습니다. 키프레임, 등장 효과, 움직임, 투명도, 크기 변화 같은 애니메이션을 코드 없이 적용할 수 있고, 웹페이지와 인터랙티브 콘텐츠에서 더 풍부한 표현을 만들 수 있습니다.
-
-### 벡터 편집기에서 만든 애니메이션을 영상으로 추출할 수 있나요?
-
-네. 벡터 편집기에서 구성한 애니메이션은 웹에서 동작하는 CSS 애니메이션으로 활용할 수 있을 뿐 아니라, 필요한 경우 MP4 영상으로 추출하는 흐름도 제공합니다. 움직이는 표지, 홍보 영상, 강의 자료, SNS용 짧은 콘텐츠처럼 정적인 이미지보다 영상 결과물이 필요한 경우에 유용합니다.
-
-### 전자책에도 애니메이션을 넣을 수 있나요?
-
-전자책 뷰어마다 지원 범위가 다르기 때문에 모든 EPUB 환경에서 동일한 애니메이션이 보장되지는 않습니다. 다만 웹 기반 콘텐츠나 지원 가능한 EPUB 환경에서는 애니메이션 표현을 활용할 수 있습니다. 옵클은 결과물의 목적과 배포 환경에 맞게 정적인 전자책과 동적인 웹콘텐츠를 구분해 제작할 수 있도록 돕습니다.
-
-### 레이아웃 편집기는 무엇인가요?
-
-레이아웃 편집기는 출판물과 문서 제작에 맞춘 옵클의 편집 도구입니다. 전자책 본문, 웹문서, 종이책 내지, 표지처럼 정확한 배치와 페이지 구성이 중요한 작업을 다룹니다. 텍스트 프레임, 이미지, 여백, 페이지 크기, 인쇄 기준을 고려해 출판용 앱에 가까운 UI/UX로 작업할 수 있습니다.
-
-### 인쇄용 PDF도 만들 수 있나요?
-
-네. 레이아웃 편집기는 인쇄용 PDF 추출을 고려합니다. 전자책이나 웹문서용 결과물과 달리 인쇄용 PDF는 페이지 크기, 여백, 재단, 이미지 품질, 색상, 표지 규격을 더 엄격하게 봐야 합니다. 옵클은 화면용 문서뿐 아니라 실제 출력과 제작을 고려한 PDF 결과물까지 만들 수 있는 방향으로 설계되어 있습니다.
-
-### 도련선이 포함된 PDF를 만들 수 있나요?
-
-네. 인쇄물 제작에서는 재단 과정에서 흰 여백이 생기지 않도록 도련 영역을 포함하는 것이 중요합니다. 레이아웃 편집기는 표지나 인쇄용 페이지를 제작할 때 도련선을 고려한 PDF 추출 흐름을 제공합니다. 종이책 표지, 포스터, 인쇄용 내지처럼 재단 기준이 필요한 작업에 활용할 수 있습니다.
-
-### CMYK 인쇄용 PDF도 지원하나요?
-
-네. 인쇄용 결과물에서는 화면용 RGB와 달리 CMYK 색상 처리가 중요합니다. 옵클은 완성된 인쇄용 PDF에서 CMYK 기준을 고려할 수 있는 흐름을 제공합니다. 웹과 전자책뿐 아니라 실제 인쇄 제작까지 이어지는 창작자에게 필요한 기능입니다.
-
-### 표지 제작도 에디터 안에서 할 수 있나요?
-
-네. 옵클 에디터는 전자책 표지와 종이책 표지 제작을 모두 고려합니다. 벡터 편집기에서 표지 그래픽을 만들고, 레이아웃 편집기에서 표지 크기, 여백, 도련, 책등, 앞표지와 뒤표지 구성을 다룰 수 있습니다. 전자책 커버 이미지뿐 아니라 인쇄용 표지 PDF까지 연결되는 제작 흐름을 목표로 합니다.
-
-### HTML과 CSS를 직접 수정할 수 있나요?
-
-네. 코딩에 익숙한 사용자는 비주얼 에디터로 구조를 잡은 뒤 HTML/CSS를 직접 수정할 수 있습니다. 이는 옵클 에디터가 단순한 이미지 기반 디자인 툴이 아니라 실제 웹문서와 EPUB 구조를 다루는 에디터이기 때문입니다. 시각적 편집과 코드 편집을 함께 사용할 수 있습니다.
-
-### 디자인 자유도는 어느 정도인가요?
-
-옵클 에디터는 백지 상태에서 자유롭게 디자인할 수 있도록 만들어졌습니다. 글꼴, 색상, 크기, 여백, 위치, 배경, 이미지, 영상, 그래픽, 애니메이션, 반응형 상태를 조정할 수 있습니다. 전자책 내지처럼 정갈한 레이아웃부터 웹페이지처럼 시각적인 랜딩 페이지까지 폭넓게 만들 수 있습니다.
-
-### 브랜드 아이덴티티가 있는 결과물도 만들 수 있나요?
-
-네. 직접 보유한 폰트, 브랜드 색상, 이미지, 로고, 그래픽 요소를 활용해 브랜드 아이덴티티가 반영된 전자책이나 웹문서를 만들 수 있습니다. 독립출판 작가의 책 디자인뿐 아니라 브랜드 소개 페이지, 교육 자료, 포트폴리오, 제품 설명 페이지에도 활용할 수 있습니다.
-
-## Opkle AI
-
-### Opkle AI는 무엇인가요?
-
-Opkle AI는 옵클 에디터 안에서 사용할 수 있는 인공지능 기능입니다. 사용자는 에디터 안에서 문장을 번역하거나, 교정·교열하거나, 글을 다듬거나, 기능 사용법을 질문할 수 있습니다. 또한 이미지 생성, 이미지의 영상화, 영상 생성 등 콘텐츠 제작을 돕는 AI 기능도 함께 발전하고 있습니다.
-
-### 본문 번역을 AI로 할 수 있나요?
-
-네. 옵클 에디터는 본문 문단이나 선택한 텍스트를 AI로 번역하는 흐름을 제공합니다. 전자책이나 웹문서를 여러 언어로 준비해야 하는 창작자에게 유용하며, 번역 결과를 에디터 안에서 바로 확인하고 수정할 수 있습니다.
-
-### 교정교열도 AI가 도와주나요?
-
-네. Opkle AI는 문장의 맞춤법, 표현, 어색한 흐름, 문체를 다듬는 교정·교열 작업을 도울 수 있습니다. 사용자는 긴 원고를 외부 도구로 복사해 옮기지 않고, 에디터 안에서 문단 단위로 AI의 도움을 받아 글을 정리할 수 있습니다.
-
-### AI에게 에디터 사용법을 물어볼 수 있나요?
-
-네. Opkle AI는 단순한 글쓰기 보조를 넘어, 에디터 사용 중 필요한 기능을 물어보거나 작업 방법을 요청하는 방향으로 활용할 수 있습니다. 예를 들어 번역, 교정, 레이아웃 조정, 이미지 작업, 전자책 제작 흐름에 대해 도움을 받을 수 있습니다.
-
-### AI 이미지 생성도 가능한가요?
-
-네. 옵클은 콘텐츠 제작 과정에서 필요한 이미지 생성 기능을 AI와 연결하는 방향을 제공합니다. 표지 시안, 삽화, 분위기 이미지, 웹페이지 시각 요소 등 창작자가 직접 만들기 어려운 이미지를 AI로 생성하고, 이후 에디터 안에서 배치하거나 조정할 수 있습니다.
-
-### 이미지의 영상화나 영상 생성도 가능한가요?
-
-네. Opkle AI는 이미지 기반 영상화와 영상 생성 기능까지 콘텐츠 제작 흐름에 포함하는 방향으로 발전하고 있습니다. 웹콘텐츠, 홍보 페이지, 클래스 자료, 인터랙티브 콘텐츠처럼 이미지와 영상이 함께 필요한 결과물을 더 쉽게 만들 수 있도록 돕습니다.
-
-### AI 기능을 쓰면 원고가 자동으로 서버에 저장되나요?
-
-AI 기능은 요청 처리를 위해 선택한 텍스트나 필요한 데이터가 API로 전송될 수 있습니다. 하지만 옵클 에디터의 기본 작업 저장 구조는 로컬 중심입니다. 민감한 원고를 다룰 때는 어떤 텍스트를 AI에 보내는지 사용자가 인지하고 선택하는 것이 중요합니다.
+서버를 거치는 인공지능 기능은 요청 처리를 위해 선택한 텍스트나 이미지 등 필요한 데이터가 전송될 수 있습니다. 하지만 기본 작업 저장 구조는 로컬 중심입니다. 민감한 디자인이나 사진을 다룰 때는 어떤 데이터를 인공지능에 보내는지 사용자가 인지하고 선택하는 것이 중요합니다.
 
 ## 실행 환경
 
-### 옵클 에디터는 웹에서만 사용할 수 있나요?
+### 어떤 환경에서 사용할 수 있나요?
 
-현재 옵클 에디터는 Electron 기반 데스크탑 앱을 중심으로 제공합니다. 웹 기술로 만들어졌지만, 사용자는 브라우저보다 앱 환경에서 더 안정적으로 작업할 수 있습니다. 전자책, 그래픽, 레이아웃, 로컬 파일, 장시간 편집 작업을 다루기 위해 데스크탑 앱 중심의 사용 경험을 제공합니다.
-
-### Electron 앱으로도 사용할 수 있나요?
-
-네. 옵클 에디터는 Electron 기반 데스크탑 앱으로 접근합니다. 웹 기반 에디터의 장점을 유지하면서도 로컬 파일 처리, 데스크탑 환경, 긴 작업 시간, 안정적인 편집 경험을 제공하기 위한 방식입니다. 전자책 제작과 인쇄용 결과물 작업처럼 집중도가 높은 작업에 적합합니다.
+옵클 에디터는 macOS와 Windows 앱, 그리고 웹 브라우저에서 사용할 수 있습니다. 어디서 열든 같은 화면과 같은 기능을 제공하며, 큰 이미지와 무거운 작업을 오래 다룰 때는 데스크탑 앱에서 더 안정적으로 작업할 수 있습니다.
 
 ### 여러 기기에서 같은 프로젝트를 자동 동기화하나요?
 
-기본 구조는 로컬 우선 저장입니다. 즉 모든 프로젝트가 자동으로 서버에 동기화되는 방식이 아닙니다. 프로젝트를 다른 기기로 옮기려면 내보내기/가져오기 기능을 사용하거나, 사용자가 선택한 백업 방식을 활용하는 것이 기본입니다. 이는 원고와 저작물의 통제권을 사용자에게 두기 위한 설계입니다.
+기본 구조는 로컬 우선 저장입니다. 즉 모든 프로젝트가 자동으로 서버에 동기화되는 방식이 아닙니다. 프로젝트를 다른 기기로 옮기려면 내보내기와 가져오기 기능을 사용하거나, 사용자가 선택한 백업 방식을 활용하는 것이 기본입니다. 이는 작업물의 통제권을 사용자에게 두기 위한 설계입니다.
 
-### 완성한 웹페이지는 어떻게 게시하나요?
+## 그 밖에 궁금한 것
 
-옵클 에디터로 만든 웹문서는 목적에 따라 파일로 내보내거나 별도 호스팅에 올리는 방식으로 게시할 수 있습니다. 옵클은 창작자가 결과물을 특정 플랫폼에만 묶어두지 않고, 필요한 경우 직접 소스와 파일을 활용할 수 있는 방향을 지향합니다.
+### 옵클의 가장 큰 차별점은 무엇인가요?
 
-### 완성한 EPUB은 어디에 유통할 수 있나요?
-
-EPUB 파일은 교보문고, 예스24, 알라딘, 리디, 구글 플레이 북스, 애플 북스, 아마존 Kindle 등 각 유통 플랫폼의 기준에 맞춰 제출할 수 있습니다. 다만 각 플랫폼의 등록 조건과 검수 기준은 다르므로, 최종 유통 전에는 파일 형식, 메타데이터, 표지 규격, 오류 검사 결과를 확인해야 합니다.
-
-## 클래스
-
-### 옵클은 에디터만 제공하나요?
-
-아닙니다. 옵클은 에디터뿐 아니라 창작자를 위한 클래스와 제작 서비스도 함께 제공합니다. 독립출판, EPUB 제작, 웹콘텐츠 제작, 표지 디자인, 전자책 유통 준비처럼 창작자가 혼자 해결하기 어려운 과정을 교육과 서비스로 연결합니다.
-
-### 전자책 제작을 배울 수 있는 클래스가 있나요?
-
-네. 옵클은 전자책 제작과 독립출판을 위한 클래스를 운영합니다. 원고 준비, 레이아웃 구성, 표지와 이미지 디자인, EPUB 추출, 오류 검사, 접근성 검사, 유통 준비까지 실제 전자책 완성에 필요한 과정을 다룹니다.
-
-### 클래스와 에디터는 어떻게 연결되나요?
-
-옵클의 클래스는 단순한 이론 강의가 아니라 옵클 에디터를 활용해 실제 결과물을 만드는 방식으로 연결됩니다. 수강자는 자신의 원고나 기획을 바탕으로 에디터를 사용하고, EPUB 제작과 오류 검사, 디자인 피드백, 유통 준비를 함께 배울 수 있습니다.
-
-## 자주 묻는 질문
-
-### 전자책 제작을 처음 시작하는 사람도 바로 결과물을 만들 수 있나요?
-
-네. 완전히 처음 시작하는 분도 템플릿, 시각적 편집, 클래스, AI 기능을 활용해 전자책 제작을 시작할 수 있습니다. 다만 유통 가능한 EPUB을 만들려면 표지, 목차, 메타데이터, 이미지, 폰트, 오류 검사 같은 요소를 이해해야 하므로, 옵클은 도구와 교육을 함께 제공하는 방향을 중요하게 생각합니다.
-
-### 이미 원고가 있다면 무엇부터 하면 되나요?
-
-이미 원고가 있다면 먼저 원고를 에디터로 가져와 문단 구조를 잡고, 제목과 본문 스타일을 정리한 뒤, 표지와 이미지를 배치하고, 전자책에 맞는 목차와 메타데이터를 구성하는 순서로 진행할 수 있습니다. 이후 EPUB 추출, 오류 검사, 접근성 검사, 폰트와 이미지 최적화를 거쳐 유통 준비를 할 수 있습니다.
-
-### 원고가 없어도 시작할 수 있나요?
-
-네. 원고가 없어도 기획안, 주제, 목차, 메모가 있다면 시작할 수 있습니다. Opkle AI의 도움을 받아 초안을 만들거나 문장을 다듬고, 클래스나 제작 가이드를 통해 책의 구조를 잡아갈 수 있습니다. 중요한 것은 완성된 원고가 아니라 만들고 싶은 콘텐츠의 방향입니다.
-
-### 디자인을 못해도 전자책을 만들 수 있나요?
-
-네. 디자인 경험이 없어도 기본 레이아웃과 템플릿, 폰트 설정, 이미지 배치 기능을 활용해 깔끔한 전자책을 만들 수 있습니다. 더 완성도 높은 표지나 내지 디자인이 필요하다면 옵클의 클래스나 제작 서비스를 통해 도움을 받을 수 있습니다.
-
-### 출판 유통까지 혼자 할 수 있나요?
-
-혼자서도 가능하지만, 전자책 유통에는 파일 규격, ISBN, 표지 규격, 메타데이터, 유통사별 검수 기준 같은 실무 요소가 있습니다. 옵클은 에디터와 오류 검사, 접근성 검사, 제작 클래스, 외주 서비스를 통해 창작자가 유통 가능한 결과물에 더 쉽게 도달하도록 돕습니다.
-
-### 옵클 에디터는 어떤 사람에게 가장 잘 맞나요?
-
-옵클 에디터는 자신의 콘텐츠를 직접 만들고 싶은 독립출판 작가, 전자책을 제작해야 하는 출판사와 편집자, 웹문서를 만드는 디자이너와 강사, 브랜드 콘텐츠를 만드는 팀, 코딩 없이 웹과 전자책 결과물을 만들고 싶은 창작자에게 잘 맞습니다. 특히 전자책과 웹문서의 경계를 넘나드는 콘텐츠를 만들고 싶은 사람에게 적합합니다.
-
-### 옵클 에디터의 가장 큰 차별점은 무엇인가요?
-
-옵클 에디터의 가장 큰 차별점은 전자책 제작, 웹문서 제작, 그래픽 편집, AI 보조, 로컬 저장, 오류 검사, 접근성 검사, 폰트와 이미지 최적화를 하나의 창작 워크플로우 안에 묶는 것입니다. 단순히 예쁜 화면을 만드는 도구가 아니라, 실제 유통 가능한 전자책과 소유 가능한 웹콘텐츠를 만드는 것을 목표로 합니다.
+구독 없이 쓰는 전문가급 도구라는 점, 벡터 디자인과 UI 시안, 사진 편집, 모션 그래픽, 3D 목업까지 여러 프로그램을 오갈 필요 없이 하나의 앱 안에서 끝낼 수 있다는 점, 그리고 작업 데이터와 사진이 내 컴퓨터에 머문다는 점입니다. 피그마, 포토샵, 인디자인 파일을 그대로 열어 이어서 작업할 수 있는 것도 옵클만의 장점입니다.
 
 ### 옵클은 앞으로 어떤 방향으로 발전하나요?
 
-옵클은 EPUB 전자책 에디터에서 출발했지만, 앞으로 웹문서 편집기, 웹 구축기, 이미지 생성 에디터, AI 기반 창작 도구로 확장될 예정입니다. 창작자가 자신의 콘텐츠를 직접 만들고, 검수하고, 최적화하고, 배포할 수 있는 더 넓은 워크플로우를 제공하는 것이 목표입니다.
+옵클은 EPUB 전자책 에디터에서 출발해, 이제 벡터와 사진, 모션, 3D까지 다루는 그래픽 에디터 옵클 에디터로 넓어졌습니다. 앞으로도 창작자가 구독에 묶이지 않고 자신의 콘텐츠를 직접 만들고, 다듬고, 소유하고, 배포할 수 있는 도구를 만드는 것을 목표로 합니다.
 
 ### 옵클에 문의하려면 어떻게 하나요?
 
-옵클에 대한 문의는 help@opkle.app 으로 보내실 수 있습니다. 전자책 제작, 웹페이지 제작, 표지 제작, 클래스, Opkle editor 사용과 관련된 문의를 남겨주시면 상황에 맞게 안내해드립니다.
+옵클에 대한 문의는 [help@opkle.app](mailto:help@opkle.app) 으로 보내실 수 있습니다. 옵클 에디터 사용, 디자인 작업, 클래스와 관련된 문의를 남겨주시면 상황에 맞게 안내해드립니다.
+
 
 ---
 
 # English FAQ
 
+## Opkle
+
+### What is Opkle?
+
+Opkle is a software company that builds design and content tools for creators. We develop Opkle Editor, a graphic editor that handles vector and pixel images together with no subscription, and we also offer classes and production services so creators can finish their own work.
+
 ## Opkle Editor
 
-### What kind of company is Opkle?
+### What is Opkle Editor?
 
-Opkle is a software company building an EPUB ebook and web-content authoring platform for creators. Opkle develops Opkle editor, an editor for creating and editing ebooks, web documents, and content without coding. Opkle also provides classes, production services, and publishing workflows so creators can design and complete their own books and web content.
+Opkle Editor is a professional-grade vector and image editor with no subscription fee. You can make and share logos, illustrations, app UI mockups, social images, and even book covers in a single app. Vector design, UI design features such as frames and auto layout, photo and pixel editing, motion graphics, and AI all live on one screen.
 
-### What is Opkle editor?
+### Can a beginner use it?
 
-Opkle editor is an editor for creating EPUB ebooks, PDF ebooks, web documents, web pages, and content layouts without coding. It is not just a text editor. It is an integrated creation tool for working with images, text, paragraphs, graphics, video, animation, responsive layouts, AI features, and EPUB validation. The representative service website is https://opkle.app.
+Yes. Opkle Editor is built so that first-time users can get started. Drag in a ready-made template and change only the text and colors, or place shapes and images by clicking and dragging and then adjust size, color, font, and spacing in the settings panel on the right. AI helps with time-consuming jobs such as removing backgrounds or erasing objects.
 
-### Is Opkle editor a website builder or an ebook editor?
+### I use Figma, Illustrator, or Photoshop. Is it for me?
 
-Opkle editor is both an ebook editor and a web-content editor. In one visual editing environment, users can create EPUB ebooks as well as responsive web pages and web documents. Opkle is built on the idea that ebooks and web documents share a common foundation: HTML, CSS, images, fonts, media, and layout.
+Yes. Opkle Editor follows familiar conventions so that people switching from other design tools feel at home. Multiple artboards, frames and auto layout, components and variants, the pen tool and pathfinder, and adjustment layers work on the same concepts, and the shortcuts follow the Figma way. You can also open your existing SVG, PDF, Adobe Illustrator (.ai), and Photoshop (PSD) files and keep working.
 
-### Can I use it without knowing how to code?
+### What can I make?
 
-Yes. Opkle editor is designed for people without coding knowledge. Like PowerPoint or Word, users can arrange images, text, paragraphs, and graphic elements through drag-and-drop and clicks. Users can also control margins, size, color, fonts, animation, and responsive design through visual settings. Even without code, the output becomes a real EPUB or web document.
+Logos, icons, characters, and vector illustrations, app and web mockups and component libraries, carousel posts, banners, product page images, book covers, posters, merchandise designs, and figures for presentations and teaching materials. Export finished work as PNG, JPG, WebP, or SVG, and export animated work as MP4 video.
 
-### Is it useful for people who can code?
+## Vector Design
 
-Yes. Opkle editor is a no-code tool for beginners, but it is also useful for people who understand HTML and CSS. Users can quickly build the structure visually, then edit the source code when needed. It connects fast prototyping with precise final production for designers and developers.
+### Can I use multiple artboards?
 
-### What is a representative website made by Opkle editor?
+Yes. Opkle Editor lets you lay out multiple artboards side by side on one canvas. Create outputs of different sizes, such as a poster, an app screen, and a social banner, together in one file, and name, drag, or resize each artboard. It is especially handy when you compare several versions of the same design.
 
-The representative Opkle website is https://opkle.app. Opkle uses this site to provide Opkle editor, ebook production classes, web-content production services, and independent publishing resources. The direction of Opkle editor is to let creators build ebooks and web documents without coding while keeping ownership and technical quality in the creator's hands.
+### How capable is the pen tool?
 
-## Storage And Ownership
+The pen tool and node editing let you draw exactly the curve you want. Pathfinder operations such as union, subtract, intersect, and exclude, along with compound paths, make complex shapes easy to build, and the tools are precise enough for logos and icons.
 
-### Where are my projects stored?
+### How do fills and strokes work?
 
-Projects are stored on the user's own computer by default. Opkle editor uses a local-first structure built around local storage and IndexedDB. This allows fast work even when the internet connection is unstable and prevents manuscripts and project data from being unnecessarily sent to Opkle servers.
+You can stack multiple fills and strokes on a single shape. Use solid colors, gradients, and image fills, and give strokes options such as width, dashes, and arrowheads. Because they stack, a single shape can carry several shadows or outlines.
 
-### Are my manuscript and project files automatically uploaded to Opkle servers?
+### Can I warp or repeat shapes?
 
-No. Basic project data is stored locally. Unless the user explicitly uploads files or uses a server-based feature, manuscripts and projects are not automatically stored on Opkle servers. This design helps protect creators' manuscripts, designs, works, and publishing files.
+Yes. Warp, perspective, and puppet transforms let you bend and twist shapes and images freely. Blend, which creates a smooth transition between two shapes, and repeat, which arranges the same element in a regular pattern, help you build patterns and decorative elements quickly.
 
-### Can I work without an internet connection?
+### Can I design text and tables?
 
-Basic editing can continue around local data even when the internet connection is unavailable or unstable. However, AI features, account authentication, payment, and some server-based validation or upload features may require an internet connection.
+Yes. Text in Opkle Editor stays live and is never flattened into an image, so you can edit the wording even after the design is done. Fine-tune font, size, letter spacing, and line spacing, and create tables right inside your design to organize information like price lists and schedules alongside your graphics.
 
-### Can I back up my project or move it to another computer?
+## UI Design
 
-Yes. Opkle editor provides project export and import. Users can back up a project as a single file or import it on another computer to continue working. Although the structure is local-first, it is designed to support backup, movement, long-term work, and collaboration.
+### Can I make app or web mockups?
 
-### Can I own the source code or files of my finished work?
+Yes. With frames, auto layout, and constraints, you can design screens that hold together when sizes change. When a label gets longer, the button grows with it, and when the screen width changes, elements follow the rules you set. Place phone, tablet, and computer screens side by side on multiple artboards and refine them together.
 
-Yes. Opkle editor is oriented toward giving creators direct ownership of their final files, such as EPUB files, web documents, HTML/CSS, images, fonts, and PDFs. Even if a work is created without coding, the final result should remain the creator's own content.
+### What are components and variants?
 
-### How is Opkle editor different from subscription-based website builders?
+A component turns an element you use again and again, such as a button, card, or icon, into a single source. Edit the source and every place that uses the component updates right away, and versions with different sizes or states can be grouped and managed as variants. Your design stays consistent even as the number of screens grows.
 
-Many website builders keep a site inside their platform or limit publishing and management when a subscription ends. Opkle editor is designed so creators can more directly own the files and structure of their results. This is especially important for ebooks and web documents where final files may need to be managed, distributed, or hosted elsewhere.
+### Can I manage a design system?
 
-## What You Can Create
+Yes. The asset library, color styles, and variables keep the design rules of your team in one place. Layout grids and snapping align everything down to the pixel, so screen mockups and component libraries are built to the same standard.
 
-### Can I create EPUB ebooks with Opkle editor?
+### How do I export for developers?
 
-Yes. EPUB ebook production is a core feature of Opkle editor. Users can edit text, images, covers, paragraphs, styles, tables of contents, fonts, and responsive layouts, then export EPUB files. It is not just document conversion; users can directly adjust the structure and design for ebook reading environments.
+You can set export settings on each layer. Export icons as SVG and photo banners as PNG, JPG, or WebP, at several scales in one go. There is no need to export images again one by one every time a screen changes.
 
-### Does Opkle editor support both EPUB3 and EPUB2?
+## Photo and Pixel Editing
 
-Opkle editor considers workflows for both EPUB3 and EPUB2 export. It can support modern EPUB3 output as well as EPUB2-based workflows when needed. This helps respond more flexibly to domestic and international ebook distribution platform requirements.
+### Can I edit photos?
 
-### Can I create web pages and web documents too?
+Yes. Opkle Editor includes photo editing tools such as brushes, pixel selection, clone stamp and healing, dodge and burn, and crop. Without opening a separate photo editor, you can retouch the photos for your design on the same screen.
 
-Yes. Opkle editor can create not only ebooks but also web pages, landing pages, online portfolios, product introduction pages, and web-based documents. Because web documents and EPUBs are both based on HTML/CSS, Opkle develops one editing environment that can handle both web and ebook outputs.
+### Can I correct colors?
 
-### Can I create PDFs?
+Yes. Adjustments such as brightness, contrast, hue, and curves are supported, and adjustment layers let you stack corrections without touching the original. Change the values later or toggle them on and off to compare results, so you can experiment with photo tones safely.
 
-Yes. Opkle editor also considers PDF output workflows. It can work with layouts and pages for viewer PDFs and print-ready PDFs. This is useful for creators who need PDF previews or print outputs during ebook production.
+### Can I reshape a photo?
 
-### Can I create responsive websites?
+Yes. Liquify lets you push and pull shapes in a photo for natural-looking retouching. Paint over anything you want gone and AI erase fills it in to match the surroundings, and the clone stamp and healing tools let you touch up fine details by hand.
 
-Yes. Opkle editor supports responsive design for mobile, tablet, and desktop screens. Users can adjust element size, placement, spacing, and visibility by screen size, creating web documents and ebook layouts that work naturally across devices.
+### Can I mix vectors and photos?
 
-### Can I design mobile and desktop views separately?
+Yes. This is one of the biggest strengths of Opkle Editor. You can mix vector graphics and photos in a single project without switching apps. On the very screen where you adjusted a photo, place a logo and text on top of it and even crop the photo into a shape, all in one pass.
 
-Yes. Users can check mobile, tablet, and desktop standards inside the editor and design optimized layouts for each screen. The same content can flow vertically on mobile and use wider layouts on desktop. Light and dark mode design can also be considered.
+## Motion and 3D
 
-### Do I have to use only templates?
+### Can I make animations?
 
-No. Templates are starting points, not requirements. Users can start from a blank canvas and create a completely new ebook or web page. Fonts, colors, images, spacing, layout, and animation can be freely adjusted. Opkle editor aims to be a flexible visual creation environment, not a template-only tool.
+Yes. The timeline and keyframes bring shapes, text, and images to life. Set changes in position, size, rotation, and opacity without code, and control the feel of the motion with a range of easing curves to create smooth motion graphics.
 
-### Is Opkle editor suitable for independent authors?
+### Can I export video?
 
-Yes. Opkle editor helps independent authors move from manuscript writing to ebook production, cover and interior design, EPUB export, error checking, and distribution preparation. Even without coding, authors can create their own books and use classes or production services for more polished results.
+Yes. Animations made in Opkle Editor can be exported as MP4 video. It is useful when you need video rather than a still image, such as animated covers, promo videos, lecture materials, and short clips for social channels.
 
-### Can publishers, designers, teachers, and brands use it?
+### Can I edit video?
 
-Yes. Opkle editor is useful not only for individual authors but also for publishers, designers, educators, instructors, and brand teams. It is especially useful for content that sits between documents and the web, such as ebooks, class materials, online documents, portfolios, product pages, and branded content.
+Yes. Add video as a layer, place it in your design, and grade its color with the same adjustments you use for photos. Work with video and animation together on the timeline and finish them as a single scene.
 
-## Professional EPUB Features
+### Can I make 3D mockups?
 
-### Can I create EPUB files for ebook distributors?
+Yes. Opkle has a built-in 3D editor. Apply your own design to a 3D model such as a book or a poster, set the lighting and angle, and create mockup images that look like the real thing. It is useful for presenting cover drafts and merchandise designs.
 
-Yes. Opkle editor aims to produce EPUB files for ebook distribution. An ebook is not simply a compressed HTML file. It requires standard structure, metadata, table of contents, resource paths, images, fonts, accessibility elements, and validation. Opkle helps creators handle these processes more easily.
+## Editor AI
 
-### Can I run W3C Epubcheck validation?
+### Which AI features are included?
 
-Yes. Opkle editor provides workflows based on W3C Epubcheck, a validation tool used for ebook standards. EPUB files often need to be free of structural errors before submission to distributors. Epubcheck helps detect file path problems, specification violations, metadata issues, and XHTML/CSS errors.
+You get editing features such as AI erase, which naturally fills in whatever you remove, background removal, one-click object selection, line art extraction from photos, colorizing black-and-white photos, and style transfer. On top of that, AI fill, upscaling, AI image generation, and AI video generation are supported.
 
-### Does it support Ace by DAISY accessibility checks?
+### Are my photos uploaded?
 
-Yes. Opkle editor also considers Ace by DAISY accessibility checking workflows. Ebook accessibility is an important standard that helps a wider range of readers, including visually impaired readers, access ebooks. It helps inspect elements such as image alt text, document structure, heading hierarchy, language information, and reading order.
+AI erase, background removal, object selection, line art extraction, colorizing, and style transfer run directly on the graphics card of your own computer, so your photos are not uploaded to any outside server. Features that need large models, such as AI fill, upscaling, image generation, and video generation, send the data required to process your request to a server, and they are used with credits.
 
-### Why is EPUB error checking important?
+### How does background removal work?
 
-An EPUB file can appear to open normally while still containing internal structural problems. These problems may cause rejection by distributors or broken rendering in specific ebook viewers. Epubcheck and accessibility checks are important steps for creating files that can actually be distributed.
+Background removal keeps only the person or object in a photo and clears away the rest, and object selection picks out the object you want with a single click. Just brush over what you want gone and AI erase fills it in to match the surrounding colors and textures. It is especially useful for product page images and carousel posts.
 
-### What are font subsetting and font compression?
+### Can I generate images and video?
 
-Font subsetting extracts only the characters actually used in the ebook, making font files lighter. Including full font files can make ebook files large and slow to load. Opkle editor provides workflows for font size reduction and subsetting to make ebook files lighter and more stable.
+Yes. Opkle Editor supports a variety of AI image and video generation models. Generate images that are hard to make by hand, such as cover drafts, illustrations, mood images, and background sources, then drop them straight onto an artboard and edit them as freely as vectors and photos.
 
-### Can I use my own fonts in ebooks or web documents?
+### Can I ask the AI to do the work?
 
-Yes. If you have the right to use a font, you can apply it to ebooks and web documents. Brand fonts, publishing fonts, and Korean body fonts can help create a clear identity. However, users must check font licenses themselves, including whether ebook embedding or webfont use is allowed.
+Yes. Opkle AI is built to operate the features of the editor directly, so when you describe the task you want, the AI works the editor for you. When you are not sure where a feature is, or when you have a lot of repetitive work, you can describe the result you want instead of hunting through menus.
 
-### Can images be optimized?
+## Subscription and Pricing
 
-Yes. In ebooks and web documents, images need a balance between quality and file size. Opkle editor provides image processing and optimization workflows to reduce overly large images and improve loading speed and final file size. Image optimization is important for both ebook distribution and web publishing.
+### Is there a subscription fee?
 
-### Can covers, body images, and alt text be managed?
+No. You can use Opkle Editor with no monthly subscription fee. Every editing feature is free, and only some AI features that need server computing run on pay-as-you-go credits, charged as you use them.
 
-Yes. Covers and body images are not just decoration; they are part of the document structure. Opkle editor is designed to consider image placement, editing, alt text for accessibility, image optimization, and layout placement together.
+### What uses credits?
 
-### Can Word, HWP, PDF, and InDesign manuscripts be used for ebook production?
+Credits are used for features that go through Opkle servers or outside AI models. That means jobs that need large models, such as AI fill, upscaling, AI image generation, and AI video generation. You are only charged for what you use, so a month without these features costs nothing.
 
-Opkle supports workflows that bring various manuscript formats into ebook production. Word (.docx), HWP (.hwp), PDF, and InDesign (.idml) files can be reorganized into ebook-friendly structures and refined into EPUB layouts suitable for mobile reading environments.
+### How is it different from subscription tools?
 
-### Can PDFs be converted to EPUB?
+With subscription tools, stopping your subscription often limits your ability to open or edit your files. Opkle keeps working with no subscription, your project data is saved on your own computer, and you can export finished work as standard files such as PNG, JPG, WebP, SVG, MP4, EPUB, and PDF and own them outright. Even if you change tools, what you made stays in your hands.
 
-PDF is a fixed-layout document format, while EPUB is designed to be read across many screen sizes. Simple conversion rarely produces a good result. Opkle editor helps restructure PDFs or fixed-layout materials into ebook-friendly flows, with text and images arranged for better reading.
+## Storage and Ownership
 
-## Editing Features
+### Where is my work saved?
 
-### Can I edit images and graphics inside the editor?
+By default, all of your work is saved on your own computer. Opkle Editor uses a local-first architecture that makes full use of the local storage of the browser and IndexedDB. That is why large images and heavy project files respond quickly without waiting on a server, and your design data is not sent to a server unnecessarily.
 
-Yes. Opkle editor provides graphic editing features for images needed in ebooks and web documents. Users can arrange image and vector layers and create or adjust covers, body images, and web-page visual elements.
+### Is my work uploaded automatically?
 
-### What is the vector editor?
+No. Your core project data is saved in your local environment. Unless you upload it yourself or use a feature that relies on a server, such as sharing or cloud AI, your project files are not automatically stored on Opkle servers. This design keeps the designs, copyrighted work, and personal photos of creators as safe as possible.
 
-The vector editor is a tool inside Opkle editor for creating graphics by combining shapes, lines, images, text, and layers. It is useful for icons, decorative elements, cover drafts, web-page graphics, and detailed images where resolution matters. Users can create and modify graphics directly inside the content production workflow.
+### Can I back up or move my work?
 
-### Can I edit pixel images too?
+Yes. Opkle Editor provides project export and import. Back up a project in progress as a single file, or import it on another computer and pick up where you left off. The architecture is local-first, but backup and transfer are built in, so you can rely on it for long-running work.
 
-Yes. Opkle editor supports workflows for image placement, resizing, optimization, covers, and body image composition. It does not aim to replace every advanced image editor, but it helps handle the image work needed during content production.
+### Does AI store my work on a server?
 
-### Can I insert video?
+AI features that go through a server may send the data needed to process your request, such as the text or images you selected. The core storage architecture, however, is local-first. When you work with sensitive designs or photos, it is important to know and choose what data you send to the AI.
 
-Yes. Opkle editor considers video insertion and media layers. Video can be an important expression tool in web documents and interactive content, and media can be placed according to the needs of ebooks or web-based outputs.
+## Platforms
 
-### Can I create animations without coding?
+### Where can I use it?
 
-Yes. The vector editor is designed to visually configure CSS animations and layer-based movement. Users can apply keyframes, entrance effects, movement, opacity, and size changes without coding, creating richer web pages and interactive content.
+Opkle Editor is available as macOS and Windows apps and in the web browser. You get the same screen and the same features wherever you open it, and the installed app is more stable when you work with large images and heavy projects for long stretches.
 
-### Can animations made in the vector editor be exported as video?
+### Do projects sync across devices?
 
-Yes. Animations created in the vector editor can be used as CSS animations on the web and can also be exported as MP4 video when needed. This is useful for animated covers, promotional videos, class materials, and short social content.
+The default is local-first storage. In other words, projects are not all synced to a server automatically. To move a project to another device, use export and import, or a backup method of your choice. This design keeps control of your work in your hands.
 
-### Can animations be added to ebooks?
+## More Questions
 
-Support varies by ebook viewer, so the same animation cannot be guaranteed in every EPUB environment. However, animation can be used in web-based content or supported EPUB environments. Opkle helps creators choose between static ebook results and dynamic web content depending on the output target.
+### What sets Opkle apart?
 
-### What is the layout editor?
+It is a professional-grade tool with no subscription. It lets you finish vector design, UI mockups, photo editing, motion graphics, and 3D mockups inside one app without jumping between programs. And your project data and photos stay on your own computer. Opening Figma, Photoshop, and InDesign files as they are and continuing your work is another strength unique to Opkle.
 
-The layout editor is Opkle's editing tool for publications and documents. It handles work where precise placement and page composition matter, such as ebook body pages, web documents, print interiors, and covers. It supports publishing-oriented UI/UX with text frames, images, margins, page sizes, and print standards.
+### Where is Opkle headed?
 
-### Can I create print-ready PDFs?
-
-Yes. The layout editor considers print-ready PDF export. Unlike screen-based web documents or ebooks, print-ready PDFs require stricter handling of page size, margins, trimming, image quality, color, and cover specifications. Opkle is designed to support output for actual printing and production.
-
-### Can I create PDFs with bleed lines?
-
-Yes. In print production, bleed areas are important so that white edges do not appear after trimming. The layout editor provides workflows for PDF export with bleed considerations for covers and print pages. This is useful for book covers, posters, and print interiors.
-
-### Does Opkle support CMYK print-ready PDFs?
-
-Yes. Print output requires CMYK color handling, unlike screen-oriented RGB. Opkle provides workflows that consider CMYK standards in completed print-ready PDFs. This is useful for creators who need to move from web and ebook production into actual print production.
-
-### Can I create covers inside the editor?
-
-Yes. Opkle editor considers both ebook covers and print book covers. Users can create cover graphics in the vector editor and handle cover size, margins, bleed, spine, front cover, and back cover composition in the layout editor. The workflow aims to connect ebook cover images with print-ready cover PDFs.
-
-### Can I directly edit HTML and CSS?
-
-Yes. Users familiar with coding can build the structure visually and then edit HTML/CSS directly. Opkle editor is not just an image-based design tool; it works with actual web document and EPUB structures. Visual editing and code editing can be used together.
-
-### How much design freedom does it provide?
-
-Opkle editor is designed for free design from a blank state. Users can control fonts, colors, size, spacing, position, backgrounds, images, video, graphics, animation, and responsive states. It can handle clean ebook interiors as well as visually rich web landing pages.
-
-### Can I create work with brand identity?
-
-Yes. Users can use their own fonts, brand colors, images, logos, and graphic elements to create ebooks and web documents with a clear brand identity. It can be used for independent books, brand pages, educational materials, portfolios, and product pages.
-
-## Opkle AI
-
-### What is Opkle AI?
-
-Opkle AI is the AI feature available inside Opkle editor. Users can translate sentences, proofread and edit text, refine writing, and ask how to use editor features. It is also expanding toward AI image generation, image-to-video, and video generation workflows for content creation.
-
-### Can AI translate body text?
-
-Yes. Opkle editor provides workflows for translating selected text or body paragraphs with AI. This is useful for creators preparing ebooks or web documents in multiple languages. Translation results can be checked and edited directly inside the editor.
-
-### Can AI help with proofreading and editing?
-
-Yes. Opkle AI can help improve spelling, expression, awkward flow, and writing style. Users can refine long manuscripts paragraph by paragraph inside the editor without copying text into external tools.
-
-### Can I ask AI how to use the editor?
-
-Yes. Opkle AI can be used not only for writing assistance but also to ask about features or request help during editing. For example, it can help with translation, proofreading, layout adjustment, image work, and ebook production workflows.
-
-### Is AI image generation available?
-
-Yes. Opkle connects AI image generation into the content production workflow. Creators can generate cover drafts, illustrations, mood images, and web-page visuals, then place or adjust them inside the editor.
-
-### Can images be turned into videos or can videos be generated?
-
-Yes. Opkle AI is developing workflows that include image-to-video and video generation. This helps create web content, promotional pages, class materials, and interactive content where images and videos are both needed.
-
-### Are manuscripts automatically stored on the server when using AI?
-
-AI features may send selected text or required data to an API for processing. However, the default project storage structure of Opkle editor is local-first. Users should be aware of what text they choose to send to AI, especially for sensitive manuscripts.
-
-## Runtime Environment
-
-### Is Opkle editor only available on the web?
-
-Currently, Opkle editor is centered around an Electron-based desktop app. It is built with web technology, but users access a more stable app environment rather than relying only on a browser. This is better suited for ebooks, graphics, layouts, local files, and long editing sessions.
-
-### Can it be used as an Electron app?
-
-Yes. Opkle editor is accessed as an Electron-based desktop app. It keeps the strengths of a web-based editor while providing local file handling, desktop environment support, long-session stability, and a focused editing experience. This is suitable for ebook production and print-ready output work.
-
-### Does it automatically sync the same project across devices?
-
-The default structure is local-first storage. Projects are not automatically synced to a server. To move a project to another device, users can use export/import or their own backup method. This design keeps control of manuscripts and creative works in the user's hands.
-
-### How can I publish a finished web page?
-
-Web documents made with Opkle editor can be exported as files or hosted separately depending on the purpose. Opkle aims to let creators use their own source files and assets without being locked into a specific platform.
-
-### Where can I distribute a finished EPUB?
-
-EPUB files can be submitted to distribution platforms such as Kyobo, Yes24, Aladin, RIDI, Google Play Books, Apple Books, and Amazon Kindle, depending on each platform's requirements. Before distribution, users should check file format, metadata, cover specifications, and validation results.
-
-## Classes
-
-### Does Opkle only provide the editor?
-
-No. Opkle provides not only the editor but also classes and production services for creators. It connects education and services for independent publishing, EPUB production, web-content production, cover design, and ebook distribution preparation.
-
-### Are there classes for learning ebook production?
-
-Yes. Opkle operates classes for ebook production and independent publishing. These classes cover manuscript preparation, layout composition, cover and image design, EPUB export, validation, accessibility checks, and distribution preparation.
-
-### How are the classes connected to the editor?
-
-Opkle classes are not just theoretical lectures. They are connected to creating real outputs with Opkle editor. Students can use their own manuscript or idea, work inside the editor, and learn EPUB production, error checking, design feedback, and distribution preparation.
-
-## Common Questions
-
-### Can a complete beginner create an ebook?
-
-Yes. A complete beginner can start ebook production using templates, visual editing, classes, and AI features. However, creating a distributable EPUB requires understanding covers, tables of contents, metadata, images, fonts, and validation. Opkle values providing both tools and education.
-
-### If I already have a manuscript, where should I start?
-
-If you already have a manuscript, you can first bring it into the editor, structure paragraphs, organize title and body styles, place covers and images, and configure the table of contents and metadata. After that, you can export EPUB, run validation and accessibility checks, and optimize fonts and images.
-
-### Can I start without a manuscript?
-
-Yes. Even without a manuscript, you can start with an idea, topic, table of contents, or notes. Opkle AI can help create drafts or refine writing, and classes or production guides can help shape the book structure. The important starting point is the direction of the content you want to create.
-
-### Can I make an ebook even if I am not good at design?
-
-Yes. Even without design experience, you can create a clean ebook using basic layouts, templates, font settings, and image placement. If you need a more polished cover or interior design, Opkle classes or production services can help.
-
-### Can I handle publication and distribution by myself?
-
-It is possible, but ebook distribution involves file specifications, ISBN, cover specifications, metadata, and distributor-specific review standards. Opkle helps creators reach distributable results through the editor, validation, accessibility checks, production classes, and services.
-
-### Who is Opkle editor best suited for?
-
-Opkle editor is well suited for independent authors, publishers and editors producing ebooks, designers and instructors creating web documents, brand content teams, and creators who want to build web and ebook outputs without coding. It is especially useful for people creating content that crosses the boundary between ebooks and web documents.
-
-### What is the biggest difference of Opkle editor?
-
-The biggest difference is that Opkle editor connects ebook production, web document production, graphic editing, AI assistance, local storage, validation, accessibility checks, and font and image optimization into one creative workflow. It is not just a tool for making things look nice; it aims to create distributable ebooks and ownable web content.
-
-### What direction is Opkle moving toward?
-
-Opkle started as an EPUB ebook editor, but it is expanding toward a web document editor, web builder, image generation editor, and AI-based creative tool. The goal is to provide a broader workflow where creators can make, inspect, optimize, and distribute their own content.
+Opkle started as an EPUB ebook editor and has grown into Opkle Editor, a graphic editor that covers vector, photo, motion, and 3D. Our goal remains to build tools that let creators make, refine, own, and distribute their own content without being tied to a subscription.
 
 ### How can I contact Opkle?
 
-You can contact Opkle at [help@opkle.app](mailto:help@opkle.app). Please reach out for questions about ebook production, web page production, cover production, classes, or Opkle editor.
+Send your inquiries to [help@opkle.app](mailto:help@opkle.app). Leave a message about using Opkle Editor, design work, or classes, and we will guide you according to your situation.
+
